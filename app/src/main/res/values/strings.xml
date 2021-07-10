@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AlgoDaily</string>
+    <string name="tab_text_1">Today</string>
+    <string name="tab_text_2">All</string>
+    <string name="textview">TextView</string>
+    <string name="easy">Easy</string>
+    <string name="algorithm">Algorithm</string>
+    <string name="medium">Medium Problem</string>
+    <string name="hard">Hard Problem</string>
+    <string name="easy_problem">Easy Problem</string>
+    <string name="medium_problem">Medium problem</string>
+    <string name="hard_problem">Hard problem</string>
+    <string name="article">Article</string>
+    <string name="not_started">Not started</string>
+</resources>
